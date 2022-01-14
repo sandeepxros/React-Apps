@@ -19,7 +19,7 @@
   cursor: pointer;
   color: grey;
 }
-.TopBarItemOne > i:hover, .TopBarItemThree >i:hover {
+.TopBarItemOne > i:hover, .TopBarItemThree >i:hover{
   color: black;
 }
 .TopBarItem {
