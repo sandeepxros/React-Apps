@@ -1,8 +1,12 @@
-import TopBar from "./Component/topbar/TopBar";
-function App() {
-  return (
-    <TopBar/>
-  );
+import ApplicationForm from "./components/application/ApplicationForm"
+function App(){
+  return(
+  <>
+    <ApplicationForm/>
+  </>)
 }
 
-export default App;
+export default  App ;
+
+
+ // backend chahiye jaldi karo 
